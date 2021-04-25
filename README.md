@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**SparklingWater45/SparklingWater45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### <i>About</i>
     
    **Name     :** Dylan van Heerden
