@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&psig=AOvVaw0pINwJlJDOLsWkvNjBk0TZ&ust=1619449080491000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCEwYvUmfACFQAAAAAdAAAAABAD" width="200" height="200" />
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
   
 ### <i>About</i>
     
