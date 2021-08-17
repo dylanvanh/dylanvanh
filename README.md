@@ -4,7 +4,6 @@
 ### <i>About</i>
     
    **Name     :** Dylan van Heerden
--  **Learning :** Java
 -  **Languages:** Python, Java, Delphi
 -  **Hobbies  :** Coding,Gym🏋️
 
