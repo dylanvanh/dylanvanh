@@ -4,7 +4,7 @@
 ### <i>About</i>
     
    **Name     :** Dylan van Heerden
--  **Languages:** Python, Java, Javascript Delphi
+-  **Languages:** Python, Java, Javascript, Delphi
 -  **Hobbies  :** Coding,Gym🏋️
 
 <img alt="Dylans's Github Stats" src="https://display-github-stats.vercel.app/api?username=SparklingWater45&show_icons=true&theme=onedark&hide_border=true&repo=onedark">
