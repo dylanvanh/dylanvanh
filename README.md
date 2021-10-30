@@ -7,9 +7,6 @@
 -  **Languages:** Python, Javascript, Java, Delphi
 -  **Hobbies  :** Coding,Gym🏋️
 
-<img alt="Dylans's Github Stats" src="https://display-github-stats.vercel.app/api?username=SparklingWater45&show_icons=true&theme=onedark&hide_border=true&repo=onedark">
-
-
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tools I have used...***
 <p align="left">
   
