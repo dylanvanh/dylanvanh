@@ -1,4 +1,13 @@
 ### Hi there 👋
+# Dylan van Heerden
+
+[![Twitter Badge](https://img.shields.io/badge/-@Soda_Water45-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Soda_Water45)](https://twitter.com/Soda_Water45) 
+[![Linkedin Badge](https://img.shields.io/badge/-DylanvanHeerden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dylan-van-heerden-a7b160139/)](https://www.linkedin.com/in/dylan-van-heerden-a7b160139/) 
+[![GitHub followers](https://img.shields.io/github/followers/SparklingWater45?label=Follow&style=social)](https://github.com/SparklingWater45/?tab=follow)
+[![Gmail Badge](https://img.shields.io/badge/-dylanvh45@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:sakshamtaneja7861@gmail.com)
+
+---
+
 <img src="https://i.pinimg.com/originals/4e/af/ef/4eafefd8b6cd9c42089ec7a19aead746.gif" width="400" height="300" />
   
 ### <i>About</i>
