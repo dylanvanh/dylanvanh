@@ -1,4 +1,5 @@
 ### Hi there 👋
+### 90% of my GitHub repos are set to private
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Soda_Water45)](https://twitter.com/Soda_Water45)
 [![GitHub followers](https://img.shields.io/github/followers/SparklingWater45?label=Follow&style=social)](https://github.com/SparklingWater45/?tab=follow)
