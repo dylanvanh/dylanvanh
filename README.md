@@ -13,7 +13,7 @@
 ### <i>About</i>
     
    **Name     :** Dylan van Heerden
--  **Languages used :** Python, Javascript, Dart, Java, Delphi
+-  **Languages used :** Python, Javascript, Dart, Java, PHP, Delphi
 -  **Hobbies  :** Coding💻,Gym🏋️
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp;***Tools I have used...***
